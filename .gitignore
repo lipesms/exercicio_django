@@ -1,0 +1,15 @@
+# Ambiente virtual
+venv/
+env/
+virtual/
+
+# Arquivos do PyCharm / VSCode
+.idea/
+*.pyc
+__pycache__/
+
+# Banco de dados SQLite
+db.sqlite3
+
+# Arquivos de mídia carregados localmente
+media/
